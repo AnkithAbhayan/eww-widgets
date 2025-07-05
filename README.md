@@ -19,11 +19,11 @@ eww daemon
 eww open clock_win
 ```
   
-## Note
+# Note
 - Uses the [JetBrainsMono](https://www.jetbrains.com/lp/mono) font for the the date label.
 - Optimized for environments with a compositor supporting window blur effects.
   
-For **Hyprland** users, add the following configuration to your `hyprland.conf` file:
+For **Hyprland** users, add the following declarations to your `hyprland.conf` file:
 ```
 layerrule = blur, eww-blur
 layerrule = ignorealpha 0.03, eww-blur
