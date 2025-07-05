@@ -1,8 +1,8 @@
 # Eww Widgets
 Minimal Aesthetic Time and Date widget.
 ## Screenshots  
-![](pic1.png)
-![](pic2.png)
+![](screenshots/pic1.png)
+![](screenshots/pic2.png)
   
 # Installation
 1. Install [eww](https://github.com/elkowar/eww) (Elkowars Wacky Widgets)
