@@ -1,2 +1,4 @@
-# eww-widgets
-Minimal Aesthetic Time and Date widget (eww)   
+# Eww Widgets
+Minimal Aesthetic Time and Date widget.
+
+## Screenshots  
