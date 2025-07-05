@@ -1,0 +1,22 @@
+window {
+	background: rgba(255,255,150,0.075);
+	border: 2px solid rgba(255,255,255, 0.1);
+	border-radius: 50px;
+}
+
+.clock-box {
+  padding: 20px 40px;
+}
+
+.clock-time {
+  font-size: 90px;
+  margin-bottom: -25px;
+  color: #ffffcf;
+}
+
+.clock-date {
+  font-size: 18px;
+  color: #ffffee;
+  font-family: "JetBrainsMono NFM", sans-serif;
+  margin-bottom: -25px;
+}
